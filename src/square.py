@@ -9,6 +9,5 @@ class Square:
     def area(self): 
         return self.side * self.side 
     
-    # FIXME
     def perimeter(self): 
-        return self.side * 2
+        return self.side * 4
